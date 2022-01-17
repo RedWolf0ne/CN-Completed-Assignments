@@ -137,9 +137,9 @@ drwxr-xr-x 1 Wes 197121  0 Jan 16 22:46 temp_testing_repo/
 drwxr-xr-x 1 Wes 197121  0 Jan 16 23:01 Terminal_testing/
 
 C:\Users\Wes\Documents\CodingNomads
-λ cat Excercise1.txt
+λ cat Exercise1.txt
 This is for number 9 in Exercise 1.
 
 C:\Users\Wes\Documents\CodingNomads
-λ grep number Excercise1.txt
+λ grep number Exercise1.txt
 This is for number 9 in Exercise 1.
